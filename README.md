@@ -14,7 +14,7 @@ Bu depo, **TEKNOFEST Kuantum Teknolojileri Yarışması (Yazılım Kategorisi Fi
 
 **Yıldız Teknik Üniversitesi — Bilgisayar Mühendisliği Bölümü**
 
-* [**İsmail Orhan**](https://github.com/ismailorhan)
+* [**İsmail Orhan**](https://github.com/ismail9oris38)
 * [**Onur Kaya**](https://github.com/OnurKaya25)
 * [**Fatih Eren Sözen**](https://github.com/fatiheren26)
 * [**Yahya Semih Koçak**](https://github.com/YahyaSemihKocak)
