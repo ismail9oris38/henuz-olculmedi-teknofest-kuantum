@@ -70,7 +70,7 @@ flowchart TD
 ### Yöntemin Önemli İlkeleri
 1. **Belirsizliği İzole Etmek:** 2.021 ikili kararın 1.806'sı LP aşamasında belirlenmekte; kuantum donanımı yalnızca belirsizliğin toplandığı **215 değişkenlik çekirdek küme** üzerinde çalıştırılmaktadır.
 2. **Dual Bilgi Aktarımı:** LP gevşetmesinin dual gölge fiyatlarından her bir pompanın sistem çapındaki marjinal katkısı ($\Delta_i$) hesaplanarak kuantum modeline aktarılır:
-   $$\Delta_i = c_i^{\text{sabit}} + \lambda_{\text{kapasite}} \cdot f_i^{\max} + \mu_{\text{min\_debi}} \cdot f_i^{\min}$$
+   $$\Delta_i = c_i^{\text{sabit}} + \lambda_{\text{kapasite}} \cdot f_i^{\max} + \mu_{\text{min-debi}} \cdot f_i^{\min}$$
 3. **Tek Yönlü Genişleme Güvencesi:** Serbest karar kümesi yalnızca genişletilir, asla küçültülmez. Bu kural, kuantum adımının uygunluğu (fizibiliteyi) hiçbir koşulda bozmamasını garanti eder.
 
 ---
